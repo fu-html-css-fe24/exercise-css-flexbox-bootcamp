@@ -6,7 +6,27 @@
 
 <details>
   <summary>display</summary>
-  * flex  
+  flex
+</details>
+<details>
+  <summary>flex-direction</summary>
+  row / column / row-reverse / column-reverse
+</details>
+<details>
+  <summary>justify-content</summary>
+  flex-start / center / flex-end / space-around / space-between / space-evenly
+</details>
+<details>
+  <summary>align-items / align-self</summary>
+  flex-start / center / flex-end / stretch / baseline
+</details>
+<details>
+  <summary>flex / flex-grow</summary>
+  1 / 2 / 3 osv...
+</details>
+<details>
+  <summary>flex-wrap</summary>
+  nowrap / wrap / wrap-reverse
 </details>
 
 ## Japans flagga
