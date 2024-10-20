@@ -2,6 +2,13 @@
 
 # Flexbox Bootcamp - Veckans Code Review-uppgift
 
+## Flexbox Cheat Sheet
+
+<details>
+  <summary>display</summary>
+  * flex  
+</details>
+
 ## Japans flagga
 
 Japans flagga med enbart CSS.
