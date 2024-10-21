@@ -1,27 +1,31 @@
-:root {
+ :root {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-nav {
+header {
 
 }
 
-nav img {
+header img {
 
 }
 
-nav a {
+header nav {
 
 }
 
-nav a:hover {
+header nav a {
 
 }
 
-nav a.login {
+header nav a:hover {
 
 }
 
-nav a.login:hover {
+header a.login {
+
+}
+
+header a.login:hover {
 
 }
